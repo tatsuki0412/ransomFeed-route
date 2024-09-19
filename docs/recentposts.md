@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-19 | [`IIB ( Israeli Industrial Batteries ) Hacked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-18 | [`Plaisted Companies`](https://google.com/search?q=Plaisted+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-18 | [`Bertelkamp Automation `](https://google.com/search?q=Bertelkamp+Automation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-18 | [`DJH Jugendherberge`](https://google.com/search?q=DJH+Jugendherberge) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-31 | [`https://www.morningstarseniorliving.com`](https://google.com/search?q=https%3A%2F%2Fwww.morningstarseniorliving.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-31 | [`https://www.goodlessdermatology.com`](https://google.com/search?q=https%3A%2F%2Fwww.goodlessdermatology.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-31 | [`https://effortlessoffice.com/`](https://google.com/search?q=https%3A%2F%2Feffortlessoffice.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-31 | [`www.nissan-dubai.com`](https://google.com/search?q=www.nissan-dubai.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
