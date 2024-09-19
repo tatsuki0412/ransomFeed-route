@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-19 | [`libertyfirstcu.com`](https://google.com/search?q=libertyfirstcu.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`Hunter Dickinson Inc.`](https://google.com/search?q=Hunter+Dickinson+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-19 | [`tims.com`](https://google.com/search?q=tims.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-19 | [`Handala&#8217;s statement`](https://google.com/search?q=Handala%26%238217%3Bs+statement) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-01 | [`welland`](https://google.com/search?q=welland) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-31 | [`ciot.com`](https://google.com/search?q=ciot.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-31 | [`White Mountain Backpacks`](https://google.com/search?q=White+Mountain+Backpacks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-31 | [`https://www.southwesttraders.com`](https://google.com/search?q=https%3A%2F%2Fwww.southwesttraders.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
