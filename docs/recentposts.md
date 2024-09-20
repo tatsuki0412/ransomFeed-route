@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-20 | [`Jackson Paper Manufacturing`](https://google.com/search?q=Jackson+Paper+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-20 | [`Mason City Recycling Center`](https://google.com/search?q=Mason+City+Recycling+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-20 | [`KW Realty Group`](https://google.com/search?q=KW+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-20 | [`virainsight.com`](https://google.com/search?q=virainsight.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-03 | [`bluemaven.ca problems`](https://google.com/search?q=bluemaven.ca+problems) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-09-03 | [`Turman `](https://google.com/search?q=Turman+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-02 | [`www.pokerspa.it`](https://google.com/search?q=www.pokerspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
