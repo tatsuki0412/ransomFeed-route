@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-20 | [`Sunrise Farms`](https://google.com/search?q=Sunrise+Farms) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-20 | [`avl1.com`](https://google.com/search?q=avl1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`advbe.com`](https://google.com/search?q=advbe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-19 | [`rarholding.com`](https://google.com/search?q=rarholding.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-02 | [`www.sanyo-av.com&lt;Taiwan&gt;`](https://google.com/search?q=www.sanyo-av.com%26lt%3BTaiwan%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.electriforce.com`](https://google.com/search?q=www.electriforce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-01 | [`Quálitas México`](https://google.com/search?q=Qu%C3%A1litas+M%C3%A9xico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
