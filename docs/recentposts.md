@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-21 | [`Juice Generation`](https://google.com/search?q=Juice+Generation) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-09-21 | [`https://capitalprintingco.com`](https://google.com/search?q=https%3A%2F%2Fcapitalprintingco.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-21 | [`Thompson Construction Supply`](https://google.com/search?q=Thompson+Construction+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-21 | [`Pacific Coast Building Products`](https://google.com/search?q=Pacific+Coast+Building+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-03 | [`flodraulic.com\$58.4M\USA\32GB\&lt;1% DISCLOSED`](https://google.com/search?q=flodraulic.com%5C%2458.4M%5CUSA%5C32GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`mcphillips.co.uk\$40.8M\United Kingdom\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=mcphillips.co.uk%5C%2440.8M%5CUnited+Kingdom%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`rangeramerican.com\$52.9M\USA\218GB\&lt;1% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-03 | [`wilmingtoncc.org`](https://google.com/search?q=wilmingtoncc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
