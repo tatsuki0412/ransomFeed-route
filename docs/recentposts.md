@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-23 | [`Pureform Radiology Center`](https://google.com/search?q=Pureform+Radiology+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-23 | [`ten8fire.com\$149M\USA\240GB\&lt;1% DISCLOSED`](https://google.com/search?q=ten8fire.com%5C%24149M%5CUSA%5C240GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-23 | [`Meli (BCYF &amp; Bethany)`](https://google.com/search?q=Meli+%28BCYF+%26amp%3B+Bethany%29) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-23 | [`Canstar Restorations`](https://google.com/search?q=Canstar+Restorations) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`www.pcipa.com`](https://google.com/search?q=www.pcipa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`www.bennettcurrie.co.nz`](https://google.com/search?q=www.bennettcurrie.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-04 | [`idom.com`](https://google.com/search?q=idom.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
-| 2024-09-04 | [`plannedparenthood.org`](https://google.com/search?q=plannedparenthood.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
