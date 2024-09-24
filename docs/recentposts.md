@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-24 | [`Eurobulk`](https://google.com/search?q=Eurobulk) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-23 | [`BroadGrain Commodities`](https://google.com/search?q=BroadGrain+Commodities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-23 | [`Kravit, Hovel &amp; Krawczyk  SC`](https://google.com/search?q=Kravit%2C+Hovel+%26amp%3B+Krawczyk++SC) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-23 | [`f-t.com`](https://google.com/search?q=f-t.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-04 | [`http://parrishandcompany.com`](https://google.com/search?q=http%3A%2F%2Fparrishandcompany.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-04 | [`Seirus Innovation`](https://google.com/search?q=Seirus+Innovation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-04 | [`Farmers' Rice Cooperative`](https://google.com/search?q=Farmers%27+Rice+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-09-04 | [`Crain Group`](https://google.com/search?q=Crain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
