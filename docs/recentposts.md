@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-25 | [`www.amchar.com\$28.7M\USA\605GB\&lt;1% DISCLOSED`](https://google.com/search?q=www.amchar.com%5C%2428.7M%5CUSA%5C605GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-25 | [`libraries.delaware.gov`](https://google.com/search?q=libraries.delaware.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-25 | [`gsdwi.org`](https://google.com/search?q=gsdwi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-25 | [`PetEdge`](https://google.com/search?q=PetEdge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-05 | [`kawasaki.eu`](https://google.com/search?q=kawasaki.eu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`phdservices.net`](https://google.com/search?q=phdservices.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-05 | [`Inglenorth.co.uk`](https://google.com/search?q=Inglenorth.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-05 | [`cps-k12.org`](https://google.com/search?q=cps-k12.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
