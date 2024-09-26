@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-26 | [`Schäfer, dein Bäcker GmbH & Co. KG`](https://google.com/search?q=Sch%C3%A4fer%2C+dein+B%C3%A4cker+GmbH+%26+Co.+KG) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-26 | [`Israel foreign affairs minister Emails`](https://google.com/search?q=Israel+foreign+affairs+minister+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-26 | [`tolsa.com`](https://google.com/search?q=tolsa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-26 | [`https://designbymodel.com`](https://google.com/search?q=https%3A%2F%2Fdesignbymodel.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`https://www.kashima-coat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-08 | [`Stratford School Academy`](https://google.com/search?q=Stratford+School+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-07 | [`cardiovirginia.com`](https://google.com/search?q=cardiovirginia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-07 | [`Millsboro Animal Hospital`](https://google.com/search?q=Millsboro+Animal+Hospital) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
