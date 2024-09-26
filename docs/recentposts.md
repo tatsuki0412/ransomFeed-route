@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-26 | [`Shenango Area School District`](https://google.com/search?q=Shenango+Area+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-26 | [`Israel defense minister private photos`](https://google.com/search?q=Israel+defense+minister+private+photos) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-26 | [`http://www.lolaliza.com`](https://google.com/search?q=http%3A%2F%2Fwww.lolaliza.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-09-26 | [`Schäfer, dein Bäcker GmbH & Co. KG`](https://google.com/search?q=Sch%C3%A4fer%2C+dein+B%C3%A4cker+GmbH+%26+Co.+KG) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`atlanticice.com`](https://google.com/search?q=atlanticice.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Exitz Technologies`](https://google.com/search?q=Exitz+Technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Phoenix Air Conditioning &amp; Heating`](https://google.com/search?q=Phoenix+Air+Conditioning+%26amp%3B+Heating) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-09 | [`https://www.kashima-coat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
