@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-26 | [`https://crownmortgagecompany.com`](https://google.com/search?q=https%3A%2F%2Fcrownmortgagecompany.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-26 | [`https://hughes-gill.com`](https://google.com/search?q=https%3A%2F%2Fhughes-gill.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-26 | [`https://fabricasrl.com.ar`](https://google.com/search?q=https%3A%2F%2Ffabricasrl.com.ar) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-26 | [`Fabrica Industrial Machinery &amp; Equipment`](https://google.com/search?q=Fabrica+Industrial+Machinery+%26amp%3B+Equipment) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-07 | [`NIDEC CORPORATION Data Leak`](https://google.com/search?q=NIDEC+CORPORATION+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-06 | [`Keya Accounting and Tax Services LLC`](https://google.com/search?q=Keya+Accounting+and+Tax+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
