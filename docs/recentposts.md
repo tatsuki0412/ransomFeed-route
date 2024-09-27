@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`www.naniwa-pump.co.jp`](https://google.com/search?q=www.naniwa-pump.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-26 | [`Mile Hi Foods`](https://google.com/search?q=Mile+Hi+Foods) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-26 | [`Shenango Area School District`](https://google.com/search?q=Shenango+Area+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-26 | [`Israel defense minister private photos`](https://google.com/search?q=Israel+defense+minister+private+photos) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`Smart Source, Inc.`](https://google.com/search?q=Smart+Source%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-09 | [`CAM - Tyre Trade Systems &amp; Solutions`](https://google.com/search?q=CAM+-+Tyre+Trade+Systems+%26amp%3B+Solutions) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`atlanticice.com`](https://google.com/search?q=atlanticice.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-09 | [`Exitz Technologies`](https://google.com/search?q=Exitz+Technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
