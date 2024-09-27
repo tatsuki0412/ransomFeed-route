@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-27 | [`triverus.com`](https://google.com/search?q=triverus.com) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-09-27 | [`Benny Gantz Hacked`](https://google.com/search?q=Benny+Gantz+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-09-27 | [`www.law-taxes.pl`](https://google.com/search?q=www.law-taxes.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-27 | [`actionfirepros.com\$17.4M\USA\407GB\&lt;1% DISCLOSED`](https://google.com/search?q=actionfirepros.com%5C%2417.4M%5CUSA%5C407GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-09 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-09 | [`www.dpe.go.th`](https://google.com/search?q=www.dpe.go.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
