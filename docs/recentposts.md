@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-28 | [`PipelBiz.com`](https://google.com/search?q=PipelBiz.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`http://www.southernfiresprinkler.com`](https://google.com/search?q=http%3A%2F%2Fwww.southernfiresprinkler.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-09-27 | [`infina.vn`](https://google.com/search?q=infina.vn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-27 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-10 | [`americagraphics.com`](https://google.com/search?q=americagraphics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-09 | [`Pennsylvania State Education Association`](https://google.com/search?q=Pennsylvania+State+Education+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-09 | [`Anniversary Holding`](https://google.com/search?q=Anniversary+Holding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-09 | [`Battle Lumber Co.`](https://google.com/search?q=Battle+Lumber+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
