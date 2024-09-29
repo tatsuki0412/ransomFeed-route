@@ -65733,5 +65733,10 @@
         "post_title": "Soreq NRC Hacked",
         "group_name": "handala",
         "discovered": "2024-09-29 03:27:47.512994"
+    },
+    {
+        "post_title": "markdom.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-09-29 10:54:33.330959"
     }
 ]
