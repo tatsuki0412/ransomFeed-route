@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-01 | [`verco.co.uk`](https://google.com/search?q=verco.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-01 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-01 | [`https://decalesp.com`](https://google.com/search?q=https%3A%2F%2Fdecalesp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-01 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`mcphillips.co.uk\$40.8M\United Kingdom\1.2TB\100% DISCLOSED`](https://google.com/search?q=mcphillips.co.uk%5C%2440.8M%5CUnited+Kingdom%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-11 | [`rangeramerican.com\$52.9M\USA\218GB\100% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-11 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
-| 2024-09-11 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
