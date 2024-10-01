@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-01 | [`https://decalesp.com`](https://google.com/search?q=https%3A%2F%2Fdecalesp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-01 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-30 | [`Reutter`](https://google.com/search?q=Reutter) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-30 | [`Keller Williams Realty Group`](https://google.com/search?q=Keller+Williams+Realty+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-11 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-09-11 | [`www.galgorm.com`](https://google.com/search?q=www.galgorm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-11 | [`allamericanpoly.com`](https://google.com/search?q=allamericanpoly.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-11 | [`http://cdarwin.com`](https://google.com/search?q=http%3A%2F%2Fcdarwin.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
