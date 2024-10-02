@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-02 | [`Forshey Prostok LLP`](https://google.com/search?q=Forshey+Prostok+LLP) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-02 | [`Holmes & Brakel`](https://google.com/search?q=Holmes+%26+Brakel) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-10-02 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-13 | [`Dimensional Merchandising`](https://google.com/search?q=Dimensional+Merchandising) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-13 | [`Creative Playthings`](https://google.com/search?q=Creative+Playthings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-13 | [`KlockMetal`](https://google.com/search?q=KlockMetal) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-09-13 | [`Law Offices of Michael J Gurfinkel, Inc`](https://google.com/search?q=Law+Offices+of+Michael+J+Gurfinkel%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
