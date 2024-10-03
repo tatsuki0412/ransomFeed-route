@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-03 | [`Rob Levine & Associa tes (roblevine.com)`](https://google.com/search?q=Rob+Levine+%26+Associa+tes+%28roblevine.com%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-03 | [`ironmetals.com`](https://google.com/search?q=ironmetals.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-03 | [`CaleyWray`](https://google.com/search?q=CaleyWray) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-03 | [`rollxvans.com`](https://google.com/search?q=rollxvans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-15 | [`INTERNAL.ROCKYMOUNTAINGASTRO.COM`](https://google.com/search?q=INTERNAL.ROCKYMOUNTAINGASTRO.COM) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-09-15 | [`Announcement 9-14`](https://google.com/search?q=Announcement+9-14) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-09-15 | [`Gino Giglio Generation Spa`](https://google.com/search?q=Gino+Giglio+Generation+Spa) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-09-15 | [`Rextech`](https://google.com/search?q=Rextech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
