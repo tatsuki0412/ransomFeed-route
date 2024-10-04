@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`Fursan Travel`](https://google.com/search?q=Fursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-04 | [`McGaughey &amp; Keaney CPAs `](https://google.com/search?q=McGaughey+%26amp%3B+Keaney+CPAs+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-04 | [`DPC DATA `](https://google.com/search?q=DPC+DATA+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-04 | [`itap.nacc.go.th`](https://google.com/search?q=itap.nacc.go.th) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-15 | [`https://www.blvdresidential.com`](https://google.com/search?q=https%3A%2F%2Fwww.blvdresidential.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-15 | [`https://www.khoocpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-15 | [`https://www.kashima-coat.com`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-09-15 | [`www.atlcc.net`](https://google.com/search?q=www.atlcc.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
