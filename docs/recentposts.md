@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-04 | [`C&L Ward`](https://google.com/search?q=C%26L+Ward) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`City Of Forest Park - Full Leak`](https://google.com/search?q=City+Of+Forest+Park+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-04 | [`TANYA Creations`](https://google.com/search?q=TANYA+Creations) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-04 | [`North American Break er`](https://google.com/search?q=North+American+Break+er) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`balboabayresort.com\$101M\USA\790GB\100% DISCLOSED`](https://google.com/search?q=balboabayresort.com%5C%24101M%5CUSA%5C790GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-16 | [`U.S. Dermatology Partners`](https://google.com/search?q=U.S.+Dermatology+Partners) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-09-15 | [`https://christen-sanitaer.ch`](https://google.com/search?q=https%3A%2F%2Fchristen-sanitaer.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-09-15 | [`http://www.bfcpas.com`](https://google.com/search?q=http%3A%2F%2Fwww.bfcpas.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
