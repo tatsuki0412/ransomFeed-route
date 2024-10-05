@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-05 | [`Markdom Plastic Products`](https://google.com/search?q=Markdom+Plastic+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-05 | [`Guerriere & Halnon`](https://google.com/search?q=Guerriere+%26+Halnon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`C&L Ward`](https://google.com/search?q=C%26L+Ward) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-04 | [`City Of Forest Park - Full Leak`](https://google.com/search?q=City+Of+Forest+Park+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`Northern Safety Co., Inc.`](https://google.com/search?q=Northern+Safety+Co.%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-09-16 | [`flodraulic.com\$58.4M\USA\32GB\100% DISCLOSED`](https://google.com/search?q=flodraulic.com%5C%2458.4M%5CUSA%5C32GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-16 | [`balboabayresort.com\$101M\USA\790GB\100% DISCLOSED`](https://google.com/search?q=balboabayresort.com%5C%24101M%5CUSA%5C790GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-16 | [`U.S. Dermatology Partners`](https://google.com/search?q=U.S.+Dermatology+Partners) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
