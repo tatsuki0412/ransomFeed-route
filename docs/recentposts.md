@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-06 | [`Creative Consumer Concepts`](https://google.com/search?q=Creative+Consumer+Concepts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-06 | [`www.aosense.com`](https://google.com/search?q=www.aosense.com) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-05 | [`www.nasa.gov`](https://google.com/search?q=www.nasa.gov) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
 | 2024-10-05 | [`GW Mechanical`](https://google.com/search?q=GW+Mechanical) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-16 | [`www.8010urbanliving.com`](https://google.com/search?q=www.8010urbanliving.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`www.faithfc.org`](https://google.com/search?q=www.faithfc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-16 | [`www.adantia.es`](https://google.com/search?q=www.adantia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-16 | [`topdoctors.com`](https://google.com/search?q=topdoctors.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
