@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-07 | [`albanybank.com`](https://google.com/search?q=albanybank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`akanea.com`](https://google.com/search?q=akanea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`agapefrance.org`](https://google.com/search?q=agapefrance.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`Broward Realty Corp`](https://google.com/search?q=Broward+Realty+Corp) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-17 | [`Sherr Puttmann Akins Lamb PC`](https://google.com/search?q=Sherr+Puttmann+Akins+Lamb+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-17 | [`riomarineinc.com\$56M\USA\490GB\100% DISCLOSED`](https://google.com/search?q=riomarineinc.com%5C%2456M%5CUSA%5C490GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-17 | [`champeau.com\$25.5M\Canada\130GB\100% DISCLOSED`](https://google.com/search?q=champeau.com%5C%2425.5M%5CCanada%5C130GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-09-17 | [`natcoglobal.com\$38.5M\USA\111GB\100% DISCLOSED`](https://google.com/search?q=natcoglobal.com%5C%2438.5M%5CUSA%5C111GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
