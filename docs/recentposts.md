@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-07 | [`allweatheraa.com`](https://google.com/search?q=allweatheraa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`alconca.com.ve`](https://google.com/search?q=alconca.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`albonanova.at`](https://google.com/search?q=albonanova.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`albanybank.com`](https://google.com/search?q=albanybank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-17 | [`New Electric`](https://google.com/search?q=New+Electric) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-17 | [`AutoCanada`](https://google.com/search?q=AutoCanada) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-17 | [`gestiriego.com`](https://google.com/search?q=gestiriego.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-09-17 | [`Sherr Puttmann Akins Lamb PC`](https://google.com/search?q=Sherr+Puttmann+Akins+Lamb+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
