@@ -659,16 +659,19 @@ def cheers():
 
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
-    # grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
-    # grep --no-filename '<div class="post-title">' source/lockbit3-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     parser = '''
     grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq | tr '[:upper:]' '[:lower:]'
     '''
+    url_parser = '''
+    grep '<a href' source/lockbit3-*.html --no-filename | cut -d '"' -f2
+    '''
     posts = runshellcmd(parser)
+    urls = runshellcmd(url_parser)
     if len(posts) == 1:
         errlog('lockbit3: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'lockbit3')
+    for post, url in zip(posts, urls):
+        appender(post, 'lockbit3', url)
+
         
 def lockbit3fs():
     stdlog('parser: ' + 'lockbit3fs')
