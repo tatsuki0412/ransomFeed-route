@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-08 | [`brockington.leisc.sch.uk`](https://google.com/search?q=brockington.leisc.sch.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`bridgestoneamericas.com`](https://google.com/search?q=bridgestoneamericas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`barkingwell.gr`](https://google.com/search?q=barkingwell.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-07 | [`atcdi.com.cn`](https://google.com/search?q=atcdi.com.cn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-18 | [`ringpower.com`](https://google.com/search?q=ringpower.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-17 | [`www.quenotedeporten.com`](https://google.com/search?q=www.quenotedeporten.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-17 | [`miit.gov.cn`](https://google.com/search?q=miit.gov.cn) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-09-17 | [`www.plumbersstock.com`](https://google.com/search?q=www.plumbersstock.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
