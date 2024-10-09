@@ -15,7 +15,7 @@ if platform == 'darwin':
 else:
     fancygrep = 'grep -oP'
 
-def posttemplate(victim, group_name, timestamp, victim_url=None):
+def posttemplate(victim, group_name, timestamp, url=None):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
@@ -23,10 +23,11 @@ def posttemplate(victim, group_name, timestamp, victim_url=None):
         'post_title': victim,
         'group_name': group_name,
         'discovered': timestamp,
-        'victim_url': victim_url  # 被害者のURLを追加
+        'url': url  # URLを追加
     }
     dbglog(schema)
     return schema
+
 
 def existingpost(post_title, group_name):
     '''
@@ -39,27 +40,32 @@ def existingpost(post_title, group_name):
     dbglog('post does not exist: ' + post_title)
     return False
 
-def appender(post_title, group_name, victim_url=None):
+def appender(post_title, group_name, url=None):
     '''
     append a new post to posts.json
     '''
     if len(post_title) == 0:
         errlog('post_title is empty')
         return
+    # limit length of post_title to 90 chars
     if len(post_title) > 90:
         post_title = post_title[:90]
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
-        newpost = posttemplate(post_title, group_name, str(datetime.today()), victim_url)
-        stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title + ' url:' + (victim_url or 'N/A'))
+        newpost = posttemplate(post_title, group_name, str(datetime.today()), url)  # URLを含めたテンプレート
+        stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title + ' url:' + (url if url else 'N/A'))
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
             dbglog('writing changes to posts.json')
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
+        # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
+        if os.environ.get('DISCORD_WEBHOOK_2') is not None:
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
         if os.environ.get('X_CONSUMER_KEY') is not None:
             totweet(newpost['post_title'], newpost['group_name'])
+
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
