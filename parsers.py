@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-'''
-parses the source html for each group where a parser exists & contributed to the post dictionary
-always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
-'''
 import os
 import json
 from sys import platform
@@ -11,23 +7,23 @@ from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import runshellcmd
-from sharedutils import todiscord, toteams, totweet
-from sharedutils import stdlog, dbglog, errlog, honk
+from sharedutils import todiscord, totweet
+from sharedutils import stdlog, dbglog, errlog
 
-# on macOS we use 'grep -oE' over 'grep -oP'
 if platform == 'darwin':
     fancygrep = 'grep -oE'
 else:
     fancygrep = 'grep -oP'
 
-def posttemplate(victim, group_name, timestamp):
+def posttemplate(victim, group_name, timestamp, victim_url=None):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
     schema = {
         'post_title': victim,
         'group_name': group_name,
-        'discovered': timestamp
+        'discovered': timestamp,
+        'victim_url': victim_url  # 被害者のURLを追加
     }
     dbglog(schema)
     return schema
@@ -37,43 +33,31 @@ def existingpost(post_title, group_name):
     check if a post already exists in posts.json
     '''
     posts = openjson('posts.json')
-    # posts = openjson('posts.json')
     for post in posts:
         if post['post_title'] == post_title and post['group_name'] == group_name:
-            #dbglog('post already exists: ' + post_title)
             return True
     dbglog('post does not exist: ' + post_title)
     return False
 
-def appender(post_title, group_name):
+def appender(post_title, group_name, victim_url=None):
     '''
     append a new post to posts.json
     '''
     if len(post_title) == 0:
         errlog('post_title is empty')
         return
-    # limit length of post_title to 90 chars
     if len(post_title) > 90:
         post_title = post_title[:90]
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
-        newpost = posttemplate(post_title, group_name, str(datetime.today()))
-        stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
+        newpost = posttemplate(post_title, group_name, str(datetime.today()), victim_url)
+        stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title + ' url:' + (victim_url or 'N/A'))
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
-            '''
-            use ensure_ascii to mandate utf-8 in the case the post contains cyrillic 🇷🇺
-            https://pynative.com/python-json-encode-unicode-and-non-ascii-characters-as-is/
-            '''
             dbglog('writing changes to posts.json')
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
-        # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
-        if os.environ.get('DISCORD_WEBHOOK_2') is not None:
-            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
-        #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
-        #    toteams(newpost['post_title'], newpost['group_name'])
         if os.environ.get('X_CONSUMER_KEY') is not None:
             totweet(newpost['post_title'], newpost['group_name'])
 
