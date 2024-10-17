@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`sandytownshippolice.org`](https://google.com/search?q=sandytownshippolice.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`sampoernaagro.com`](https://google.com/search?q=sampoernaagro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`salaam.af`](https://google.com/search?q=salaam.af) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`robesoncoso.org`](https://google.com/search?q=robesoncoso.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-26 | [`https://crownmortgagecompany.com`](https://google.com/search?q=https%3A%2F%2Fcrownmortgagecompany.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-26 | [`https://hughes-gill.com`](https://google.com/search?q=https%3A%2F%2Fhughes-gill.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-26 | [`https://fabricasrl.com.ar`](https://google.com/search?q=https%3A%2F%2Ffabricasrl.com.ar) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-09-26 | [`Fabrica Industrial Machinery &amp; Equipment`](https://google.com/search?q=Fabrica+Industrial+Machinery+%26amp%3B+Equipment) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
