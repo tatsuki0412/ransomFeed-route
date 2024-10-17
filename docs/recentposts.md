@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-17 | [`qespavements.com`](https://google.com/search?q=qespavements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`policiaauxiliarcusaem.com.mx`](https://google.com/search?q=policiaauxiliarcusaem.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`plantmachineworks.com`](https://google.com/search?q=plantmachineworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`pkf.com.au`](https://google.com/search?q=pkf.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-25 | [`Concord Management S ervices`](https://google.com/search?q=Concord+Management+S+ervices) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-25 | [`Lawrie Insurance Gro up`](https://google.com/search?q=Lawrie+Insurance+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-25 | [`Luso Cuanzа`](https://google.com/search?q=Luso+Cuanz%D0%B0) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-09-25 | [`ATG Communications G roup`](https://google.com/search?q=ATG+Communications+G+roup) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
