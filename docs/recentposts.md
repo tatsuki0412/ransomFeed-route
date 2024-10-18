@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-18 | [`CreaGen Inc`](https://google.com/search?q=CreaGen+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-17 | [`soprema.com`](https://google.com/search?q=soprema.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`sandytownshippolice.org`](https://google.com/search?q=sandytownshippolice.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-17 | [`sampoernaagro.com`](https://google.com/search?q=sampoernaagro.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-26 | [`tolsa.com`](https://google.com/search?q=tolsa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-09-26 | [`https://designbymodel.com`](https://google.com/search?q=https%3A%2F%2Fdesignbymodel.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-26 | [`https://crownmortgagecompany.com`](https://google.com/search?q=https%3A%2F%2Fcrownmortgagecompany.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-09-26 | [`https://hughes-gill.com`](https://google.com/search?q=https%3A%2F%2Fhughes-gill.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
