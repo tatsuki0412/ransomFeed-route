@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-19 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Kuhn and Associates`](https://google.com/search?q=Kuhn+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Courtney Construction`](https://google.com/search?q=Courtney+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-09-29 | [`nfe.fazenda.gov.br `](https://google.com/search?q=nfe.fazenda.gov.br+) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-28 | [`appweb.usinacoruripe.com.br`](https://google.com/search?q=appweb.usinacoruripe.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-28 | [`rockymountaingastro.com`](https://google.com/search?q=rockymountaingastro.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-09-28 | [`www.contegritygroup.com`](https://google.com/search?q=www.contegritygroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
