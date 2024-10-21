@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-21 | [`corporatejobbank.com\$22.8M\USA\65GB\100% DISCLOSED`](https://google.com/search?q=corporatejobbank.com%5C%2422.8M%5CUSA%5C65GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-21 | [`synertrade.com\$42M\USA\3TB\&lt;1% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-21 | [`Axis Health System`](https://google.com/search?q=Axis+Health+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-21 | [`Microworks`](https://google.com/search?q=Microworks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-01 | [`verco.co.uk`](https://google.com/search?q=verco.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-01 | [`Plastics Plus`](https://google.com/search?q=Plastics+Plus) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-01 | [`https://decalesp.com`](https://google.com/search?q=https%3A%2F%2Fdecalesp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-10-01 | [`The Rubber Resources`](https://google.com/search?q=The+Rubber+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
