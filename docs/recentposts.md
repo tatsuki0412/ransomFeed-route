@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-23 | [`http://teddy.it`](https://google.com/search?q=http%3A%2F%2Fteddy.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-23 | [`http://www.aerotecnic.com`](https://google.com/search?q=http%3A%2F%2Fwww.aerotecnic.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-22 | [`La Tazza D'oro - Full Leak`](https://google.com/search?q=La+Tazza+D%27oro+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-22 | [`Burgess Kilpatrick - Full Leak`](https://google.com/search?q=Burgess+Kilpatrick+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-02 | [`Forshey Prostok LLP`](https://google.com/search?q=Forshey+Prostok+LLP) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-10-02 | [`Holmes & Brakel`](https://google.com/search?q=Holmes+%26+Brakel) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-02 | [`credihealth.com`](https://google.com/search?q=credihealth.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-02 | [`telehealthcenter.in`](https://google.com/search?q=telehealthcenter.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
