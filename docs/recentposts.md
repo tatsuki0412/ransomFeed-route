@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-23 | [`The Povman Law Firm`](https://google.com/search?q=The+Povman+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-23 | [`Elmore Goldsmith`](https://google.com/search?q=Elmore+Goldsmith) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-23 | [`Atende Software's`](https://google.com/search?q=Atende+Software%27s) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-03 | [`ironmetals.com`](https://google.com/search?q=ironmetals.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-03 | [`CaleyWray`](https://google.com/search?q=CaleyWray) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-03 | [`rollxvans.com`](https://google.com/search?q=rollxvans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-03 | [`ten8fire.com\$149M\USA\240GB\100% DISCLOSED`](https://google.com/search?q=ten8fire.com%5C%24149M%5CUSA%5C240GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
