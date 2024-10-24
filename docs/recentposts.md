@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-24 | [`Gluckstein Personal Injury Lawyers`](https://google.com/search?q=Gluckstein+Personal+Injury+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`The Povman Law Firm`](https://google.com/search?q=The+Povman+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`Glacier`](https://google.com/search?q=Glacier) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-23 | [`Elmore Goldsmith`](https://google.com/search?q=Elmore+Goldsmith) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-03 | [`Rob Levine & Associa tes (roblevine.com)`](https://google.com/search?q=Rob+Levine+%26+Associa+tes+%28roblevine.com%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-03 | [`ironmetals.com`](https://google.com/search?q=ironmetals.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-03 | [`CaleyWray`](https://google.com/search?q=CaleyWray) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-03 | [`rollxvans.com`](https://google.com/search?q=rollxvans.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
