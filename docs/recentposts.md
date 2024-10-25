@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-25 | [`https://www.zyloware.com/`](https://google.com/search?q=https%3A%2F%2Fwww.zyloware.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.omara-ag.com/`](https://google.com/search?q=https%3A%2F%2Fwww.omara-ag.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`https://www.nrcs.net/`](https://google.com/search?q=https%3A%2F%2Fwww.nrcs.net%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-25 | [`Matouk Bassiouny`](https://google.com/search?q=Matouk+Bassiouny) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-05 | [`https://genproinc.com/`](https://google.com/search?q=https%3A%2F%2Fgenproinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-05 | [`Riley Gear Corporati on`](https://google.com/search?q=Riley+Gear+Corporati+on) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-10-05 | [`Wilmington Convention Center`](https://google.com/search?q=Wilmington+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-05 | [`Pete's Road Service`](https://google.com/search?q=Pete%27s+Road+Service) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
