@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-26 | [`Michael J Gurfinkel`](https://google.com/search?q=Michael+J+Gurfinkel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-26 | [`Mercury Theatre`](https://google.com/search?q=Mercury+Theatre) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-26 | [`KMC Controls`](https://google.com/search?q=KMC+Controls) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-26 | [`https://wescan-services.com`](https://google.com/search?q=https%3A%2F%2Fwescan-services.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-06 | [`kleberandassociates.com`](https://google.com/search?q=kleberandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`omniboxx.nl`](https://google.com/search?q=omniboxx.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-06 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-06 | [`www.ravencm.com`](https://google.com/search?q=www.ravencm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
