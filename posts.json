@@ -67372,5 +67372,11 @@
         "group_name": "killsecurity",
         "discovered": "2024-10-27 18:57:22.883278",
         "url": null
+    },
+    {
+        "post_title": "payxpress.co.il",
+        "group_name": "ransomhub",
+        "discovered": "2024-10-27 20:50:44.296726",
+        "url": null
     }
 ]
