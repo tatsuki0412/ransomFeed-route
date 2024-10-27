@@ -67366,5 +67366,11 @@
         "group_name": "hunters",
         "discovered": "2024-10-27 16:54:39.620869",
         "url": null
+    },
+    {
+        "post_title": "KillSecurity 3.0",
+        "group_name": "killsecurity",
+        "discovered": "2024-10-27 18:57:22.883278",
+        "url": null
     }
 ]
