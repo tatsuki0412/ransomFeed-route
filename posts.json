@@ -67432,5 +67432,11 @@
         "group_name": "ransomhub",
         "discovered": "2024-10-28 14:48:32.495782",
         "url": null
+    },
+    {
+        "post_title": "[File Tree and Full Data Dump]VOP CZ",
+        "group_name": "ransomhouse",
+        "discovered": "2024-10-28 16:51:56.145311",
+        "url": null
     }
 ]
