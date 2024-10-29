@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-29 | [`[DISCLOSED]Universite Paris Sud`](https://google.com/search?q=%5BDISCLOSED%5DUniversite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-29 | [`https://nathcompanies.com/`](https://google.com/search?q=https%3A%2F%2Fnathcompanies.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-29 | [`semna.fr`](https://google.com/search?q=semna.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`elnamagnetics.com`](https://google.com/search?q=elnamagnetics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`eastern-sales.com`](https://google.com/search?q=eastern-sales.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`e21c.co.uk`](https://google.com/search?q=e21c.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`Universite Paris Sud`](https://google.com/search?q=Universite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-10-09 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
