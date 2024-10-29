@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-29 | [`elnamagnetics.com`](https://google.com/search?q=elnamagnetics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`passivecomponent.com`](https://google.com/search?q=passivecomponent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`Hello.`](https://google.com/search?q=Hello.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-10-28 | [`www.oma.aero`](https://google.com/search?q=www.oma.aero) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-09 | [`dowley.com`](https://google.com/search?q=dowley.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`dmmerch.com`](https://google.com/search?q=dmmerch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-09 | [`divaris.com`](https://google.com/search?q=divaris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-09 | [`designintoto.com.au`](https://google.com/search?q=designintoto.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
