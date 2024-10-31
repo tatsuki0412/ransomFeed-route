@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`sandray.com`](https://google.com/search?q=sandray.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`mpspromotions.com`](https://google.com/search?q=mpspromotions.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`freedomhomecare.net`](https://google.com/search?q=freedomhomecare.net) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`hacla.org\$1.9B\USA\861GB\&lt;1% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-11 | [`[DISCLOSED][i2p-torrent] Roberto Verino Difusion`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5D+Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-11 | [`[DISCLOSED][i2p-torrent]Jangho Group`](https://google.com/search?q=%5BDISCLOSED%5D%5Bi2p-torrent%5DJangho+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-10-11 | [`kbc-zagreb.hr`](https://google.com/search?q=kbc-zagreb.hr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-11 | [`jutebag.co.uk`](https://google.com/search?q=jutebag.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
