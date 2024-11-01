@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`Broward Realty Corp Data Leak`](https://google.com/search?q=Broward+Realty+Corp+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Aspen Healthcare Data Leak`](https://google.com/search?q=Aspen+Healthcare+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Arctrade`](https://google.com/search?q=Arctrade) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-31 | [`caillau.com.br`](https://google.com/search?q=caillau.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-12 | [`lakelandchamber.com`](https://google.com/search?q=lakelandchamber.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-12 | [`kumhotire.com`](https://google.com/search?q=kumhotire.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-11 | [`kronospublic.com`](https://google.com/search?q=kronospublic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-11 | [`kierlcpa.com`](https://google.com/search?q=kierlcpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
