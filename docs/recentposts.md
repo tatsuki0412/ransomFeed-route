@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-02 | [`Valu-Trac Investment Management`](https://google.com/search?q=Valu-Trac+Investment+Management) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`propak`](https://google.com/search?q=propak) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Aiken Electric Cooperative`](https://google.com/search?q=Aiken+Electric+Cooperative) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Groupe Althays`](https://google.com/search?q=Groupe+Althays) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-16 | [`paysdelaloire.fr`](https://google.com/search?q=paysdelaloire.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-16 | [`GFM`](https://google.com/search?q=GFM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-16 | [`Case Parts Company`](https://google.com/search?q=Case+Parts+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-13 | [`paybito.com`](https://google.com/search?q=paybito.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
