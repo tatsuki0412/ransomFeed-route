@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-04 | [`obe.com`](https://google.com/search?q=obe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`lighthouseelectric.com`](https://google.com/search?q=lighthouseelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`bravodigitaltrader.co.uk`](https://google.com/search?q=bravodigitaltrader.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-03 | [`Hemubo`](https://google.com/search?q=Hemubo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-18 | [`wattlerange.sa.gov.au`](https://google.com/search?q=wattlerange.sa.gov.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-18 | [`troyareasd.org`](https://google.com/search?q=troyareasd.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-10-18 | [`tpgagedcare.com.au`](https://google.com/search?q=tpgagedcare.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-10-18 | [`townandforest.co.uk`](https://google.com/search?q=townandforest.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
