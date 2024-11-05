@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`Burch, APC`](https://google.com/search?q=Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`L and B Transport, L.L.C.`](https://google.com/search?q=L+and+B+Transport%2C+L.L.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`www.colonialbh.org`](https://google.com/search?q=www.colonialbh.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-05 | [`maxdata.com.br`](https://google.com/search?q=maxdata.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-19 | [`Nor-Well`](https://google.com/search?q=Nor-Well) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Mid State Electric`](https://google.com/search?q=Mid+State+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`McCody`](https://google.com/search?q=McCody) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-19 | [`Kuhn and Associates`](https://google.com/search?q=Kuhn+and+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
