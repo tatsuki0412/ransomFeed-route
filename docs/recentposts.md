@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`kenanasugarcompany.com`](https://google.com/search?q=kenanasugarcompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`www.schweiker.de`](https://google.com/search?q=www.schweiker.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-04 | [`AXIOM`](https://google.com/search?q=AXIOM) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-19 | [`CETRULO`](https://google.com/search?q=CETRULO) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Byerly Aviation`](https://google.com/search?q=Byerly+Aviation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-19 | [`Absolute Machine Tools`](https://google.com/search?q=Absolute+Machine+Tools) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-19 | [`Richmond Auto Mall - Full Leak`](https://google.com/search?q=Richmond+Auto+Mall+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
