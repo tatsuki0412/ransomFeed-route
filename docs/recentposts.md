@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`Falco Sult`](https://google.com/search?q=Falco+Sult) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`apoyoconsultoria.com`](https://google.com/search?q=apoyoconsultoria.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`Fylde Coast Academy Trust`](https://google.com/search?q=Fylde+Coast+Academy+Trust) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-05 | [`Burch, APC`](https://google.com/search?q=Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-20 | [`The Strainrite Companies`](https://google.com/search?q=The+Strainrite+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-20 | [`Rescar Companies`](https://google.com/search?q=Rescar+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-20 | [`Nora Biscuits`](https://google.com/search?q=Nora+Biscuits) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-19 | [`Nor-Well`](https://google.com/search?q=Nor-Well) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
