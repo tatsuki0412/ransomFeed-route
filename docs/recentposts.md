@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`Paragon Plastics`](https://google.com/search?q=Paragon+Plastics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-06 | [`Delfin Design & Manufacturing`](https://google.com/search?q=Delfin+Design+%26+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-05 | [`Dome Construction`](https://google.com/search?q=Dome+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-05 | [`ebrso`](https://google.com/search?q=ebrso) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-20 | [`victrongroup.com`](https://google.com/search?q=victrongroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-20 | [`promise.com`](https://google.com/search?q=promise.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-20 | [`In the depths of software development. Unlocking the secrets of Promise Technology, Inc.`](https://google.com/search?q=In+the+depths+of+software+development.+Unlocking+the+secrets+of+Promise+Technology%2C+Inc.) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-20 | [`Wilkinson`](https://google.com/search?q=Wilkinson) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
