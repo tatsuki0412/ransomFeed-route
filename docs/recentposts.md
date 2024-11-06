@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`nwhealthporter.com`](https://google.com/search?q=nwhealthporter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`pacificglazing.com`](https://google.com/search?q=pacificglazing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`metroelectric.com`](https://google.com/search?q=metroelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`sector5.ro`](https://google.com/search?q=sector5.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`http://vra.com`](https://google.com/search?q=http%3A%2F%2Fvra.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-20 | [`http://www.kchospice.org`](https://google.com/search?q=http%3A%2F%2Fwww.kchospice.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-20 | [`http://neighborscu.org`](https://google.com/search?q=http%3A%2F%2Fneighborscu.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-10-20 | [`Pr****es`](https://google.com/search?q=Pr%2A%2A%2A%2Aes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
