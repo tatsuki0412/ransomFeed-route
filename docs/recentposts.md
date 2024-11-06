@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-06 | [`metroelectric.com`](https://google.com/search?q=metroelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`sector5.ro`](https://google.com/search?q=sector5.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`Smitty's Supply`](https://google.com/search?q=Smitty%27s+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-06 | [`S & W Kitchens`](https://google.com/search?q=S+%26+W+Kitchens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-20 | [`http://neighborscu.org`](https://google.com/search?q=http%3A%2F%2Fneighborscu.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-20 | [`Pr****es`](https://google.com/search?q=Pr%2A%2A%2A%2Aes) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-20 | [`Di**ng`](https://google.com/search?q=Di%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-10-20 | [`PB**ce`](https://google.com/search?q=PB%2A%2Ace) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
