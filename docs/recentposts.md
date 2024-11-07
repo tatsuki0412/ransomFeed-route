@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`New Law`](https://google.com/search?q=New+Law) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-07 | [`Postcard Mania`](https://google.com/search?q=Postcard+Mania) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-06 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`csucontracting.com`](https://google.com/search?q=csucontracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`synertrade.com\$42M\USA\3TB\&lt;1% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-21 | [`Axis Health System`](https://google.com/search?q=Axis+Health+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-21 | [`Microworks`](https://google.com/search?q=Microworks) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-10-21 | [`Henry County Schools`](https://google.com/search?q=Henry+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
