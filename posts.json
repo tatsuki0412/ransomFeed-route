@@ -68200,5 +68200,11 @@
         "group_name": "cactus",
         "discovered": "2024-11-08 10:42:22.149424",
         "url": null
+    },
+    {
+        "post_title": "eap.gr",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-08 12:55:59.778108",
+        "url": null
     }
 ]
