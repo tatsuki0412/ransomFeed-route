@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`specpro-inc.com`](https://google.com/search?q=specpro-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`noblehouse.com.ph`](https://google.com/search?q=noblehouse.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`www.mabeglobal.com`](https://google.com/search?q=www.mabeglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`www.sym-global.com`](https://google.com/search?q=www.sym-global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-23 | [`Elmore Goldsmith`](https://google.com/search?q=Elmore+Goldsmith) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-23 | [`Atende Software's`](https://google.com/search?q=Atende+Software%27s) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-23 | [`Aaren Scientific`](https://google.com/search?q=Aaren+Scientific) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-10-23 | [`AIUT`](https://google.com/search?q=AIUT) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
