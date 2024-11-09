@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`Palmisano and Goodman, P.A.`](https://google.com/search?q=Palmisano+and+Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`davisbrothersinc.com`](https://google.com/search?q=davisbrothersinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`polypane.be`](https://google.com/search?q=polypane.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`dennissupply.com`](https://google.com/search?q=dennissupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`Eagle Industries`](https://google.com/search?q=Eagle+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-24 | [`Action Heating & Cooling`](https://google.com/search?q=Action+Heating+%26+Cooling) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-24 | [`Gluckstein Personal Injury Lawyers`](https://google.com/search?q=Gluckstein+Personal+Injury+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-10-23 | [`The Povman Law Firm`](https://google.com/search?q=The+Povman+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
