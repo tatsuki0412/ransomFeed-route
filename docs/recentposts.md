@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-10 | [`1doc.sg`](https://google.com/search?q=1doc.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-10 | [`tkg.com`](https://google.com/search?q=tkg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-10 | [`lpahorticole.faylbillot.educagri.fr`](https://google.com/search?q=lpahorticole.faylbillot.educagri.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-10 | [`bwdtechnology.com`](https://google.com/search?q=bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`McElroy, Quirk and Burch, APC`](https://google.com/search?q=McElroy%2C+Quirk+and+Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-24 | [`Tuggle Duggins`](https://google.com/search?q=Tuggle+Duggins) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-24 | [`P+B Team Aircargo`](https://google.com/search?q=P%2BB+Team+Aircargo) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-10-24 | [`TU Parks`](https://google.com/search?q=TU+Parks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
