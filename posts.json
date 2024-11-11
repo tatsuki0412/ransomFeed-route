@@ -68380,5 +68380,11 @@
         "group_name": "ransomhub",
         "discovered": "2024-11-10 22:44:41.616312",
         "url": null
+    },
+    {
+        "post_title": "Banco Sucredito Regional S.A.U.",
+        "group_name": "hunters",
+        "discovered": "2024-11-11 01:34:11.084295",
+        "url": null
     }
 ]
