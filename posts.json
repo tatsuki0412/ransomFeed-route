@@ -68386,5 +68386,11 @@
         "group_name": "hunters",
         "discovered": "2024-11-11 01:34:11.084295",
         "url": null
+    },
+    {
+        "post_title": "mh-mech.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-11 03:20:30.648705",
+        "url": null
     }
 ]
