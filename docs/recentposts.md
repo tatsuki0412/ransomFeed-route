@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-12 | [`www.proflex.ro`](https://google.com/search?q=www.proflex.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-12 | [`https://steppingstonesd.org/`](https://google.com/search?q=https%3A%2F%2Fsteppingstonesd.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`https://jst.es/`](https://google.com/search?q=https%3A%2F%2Fjst.es%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`www.guymontigers.com`](https://google.com/search?q=www.guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-27 | [`Niko Resources Ltd.`](https://google.com/search?q=Niko+Resources+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-10-27 | [`TV Guide Magazine`](https://google.com/search?q=TV+Guide+Magazine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-27 | [`Positive Business Solutions`](https://google.com/search?q=Positive+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
