@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`midstatesindustrial.com`](https://google.com/search?q=midstatesindustrial.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-13 | [`www.aristoiclassical.org`](https://google.com/search?q=www.aristoiclassical.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-13 | [`www.camelotservices.com`](https://google.com/search?q=www.camelotservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-13 | [`Value Dental Center`](https://google.com/search?q=Value+Dental+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-27 | [`mkarrari.com.br`](https://google.com/search?q=mkarrari.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-27 | [`payxpress.co.il`](https://google.com/search?q=payxpress.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-27 | [`KillSecurity 3.0`](https://google.com/search?q=KillSecurity+3.0) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-27 | [`Therabel Lucien Pharma SAS`](https://google.com/search?q=Therabel+Lucien+Pharma+SAS) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
