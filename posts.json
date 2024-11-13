@@ -68524,5 +68524,11 @@
         "group_name": "ragroup",
         "discovered": "2024-11-12 22:44:28.816064",
         "url": null
+    },
+    {
+        "post_title": "Medigroup.ca",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-13 01:30:50.492164",
+        "url": null
     }
 ]
