@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-14 | [`Pincu Barkan, Law Office and Notary`](https://google.com/search?q=Pincu+Barkan%2C+Law+Office+and+Notary) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-14 | [`Astolabs.com`](https://google.com/search?q=Astolabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-14 | [`transport-system.com`](https://google.com/search?q=transport-system.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-14 | [`Kumla Kommun`](https://google.com/search?q=Kumla+Kommun) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`passivecomponent.com`](https://google.com/search?q=passivecomponent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-29 | [`Hello.`](https://google.com/search?q=Hello.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-10-28 | [`www.oma.aero`](https://google.com/search?q=www.oma.aero) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-28 | [`bulloch.solutions`](https://google.com/search?q=bulloch.solutions) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
