@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`fortinainvestments.com`](https://google.com/search?q=fortinainvestments.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`saizeriya.co.jp`](https://google.com/search?q=saizeriya.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`confidencegroup.com.bd`](https://google.com/search?q=confidencegroup.com.bd) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`medicato.com`](https://google.com/search?q=medicato.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`CELO`](https://google.com/search?q=CELO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`Distribution Alternatives, Inc.`](https://google.com/search?q=Distribution+Alternatives%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`[DISCLOSED]Fursan Travel`](https://google.com/search?q=%5BDISCLOSED%5DFursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-10-29 | [`[DISCLOSED]Universite Paris Sud`](https://google.com/search?q=%5BDISCLOSED%5DUniversite+Paris+Sud) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
