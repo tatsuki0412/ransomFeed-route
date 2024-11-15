@@ -68710,5 +68710,11 @@
         "group_name": "hunters",
         "discovered": "2024-11-15 12:55:00.181813",
         "url": null
+    },
+    {
+        "post_title": "www.gob.mx",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-15 14:48:49.689509",
+        "url": null
     }
 ]
