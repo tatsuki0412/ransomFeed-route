@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of Texas Home Healthcare Se`](https://google.com/search?q=A+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+Texas+Home+Healthcare+Se) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`www.gob.mx`](https://google.com/search?q=www.gob.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`A&O IT Group`](https://google.com/search?q=A%26O+IT+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Dana Safety Supply`](https://google.com/search?q=Dana+Safety+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Astac`](https://google.com/search?q=Astac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`CLAS Information Services`](https://google.com/search?q=CLAS+Information+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
