@@ -68758,5 +68758,11 @@
         "group_name": "blacksuit",
         "discovered": "2024-11-16 04:46:24.772269",
         "url": null
+    },
+    {
+        "post_title": "potteau.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-16 06:48:02.568616",
+        "url": null
     }
 ]
