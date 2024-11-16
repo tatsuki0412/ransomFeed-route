@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-16 | [`https://www.billyheromans.com/`](https://google.com/search?q=https%3A%2F%2Fwww.billyheromans.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`https://www.kenmore.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kenmore.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`Total Patient Care LLC`](https://google.com/search?q=Total+Patient+Care+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`nagucoop.com`](https://google.com/search?q=nagucoop.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`projektalp.ch`](https://google.com/search?q=projektalp.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-30 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-10-30 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
