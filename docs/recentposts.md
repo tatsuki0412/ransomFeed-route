@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-17 | [`apollohospitals.com`](https://google.com/search?q=apollohospitals.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-17 | [`onedayevent.com`](https://google.com/search?q=onedayevent.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-17 | [`Ge****og`](https://google.com/search?q=Ge%2A%2A%2A%2Aog) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`patria.hu`](https://google.com/search?q=patria.hu) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Sabesp`](https://google.com/search?q=Sabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-01 | [`MCNA Dental Data Leak`](https://google.com/search?q=MCNA+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-11-01 | [`CreaGen Inc Data Leak`](https://google.com/search?q=CreaGen+Inc+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
