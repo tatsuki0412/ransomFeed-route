@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`lumiplan.com\$49.2M\France\652GB\100% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`volohealth.in`](https://google.com/search?q=volohealth.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`ask.vet`](https://google.com/search?q=ask.vet) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`aziz oil`](https://google.com/search?q=aziz+oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`PetroSouth`](https://google.com/search?q=PetroSouth) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`vikurverk.is`](https://google.com/search?q=vikurverk.is) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-01 | [`mirandaproduce.com.ve`](https://google.com/search?q=mirandaproduce.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
