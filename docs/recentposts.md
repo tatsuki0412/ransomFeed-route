@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`volohealth.in`](https://google.com/search?q=volohealth.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`ask.vet`](https://google.com/search?q=ask.vet) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`PetroSouth`](https://google.com/search?q=PetroSouth) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`vikurverk.is`](https://google.com/search?q=vikurverk.is) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-01 | [`mirandaproduce.com.ve`](https://google.com/search?q=mirandaproduce.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-11-01 | [`patria.hu`](https://google.com/search?q=patria.hu) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
