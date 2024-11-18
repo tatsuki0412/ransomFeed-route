@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`Dorner Law & Title Services`](https://google.com/search?q=Dorner+Law+%26+Title+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-18 | [`bcllegal.com\$16.7M\United Kingdom\829GB\100% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`hacla.org\$1.9B\USA\861GB\100% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`lsst.ac\$72.2M\United Kingdom\845GB\100% DISCLOSED`](https://google.com/search?q=lsst.ac%5C%2472.2M%5CUnited+Kingdom%5C845GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-02 | [`Aiken Electric Cooperative`](https://google.com/search?q=Aiken+Electric+Cooperative) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Groupe Althays`](https://google.com/search?q=Groupe+Althays) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`AIMS, Inc. - Fuel Business Accounting Software, Jobber Software - Wholesale Petroleum Acco`](https://google.com/search?q=AIMS%2C+Inc.+-+Fuel+Business+Accounting+Software%2C+Jobber+Software+-+Wholesale+Petroleum+Acco) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-11-02 | [`Freyberg Petroleum`](https://google.com/search?q=Freyberg+Petroleum) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
