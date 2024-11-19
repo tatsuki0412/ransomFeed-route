@@ -69004,5 +69004,11 @@
         "group_name": "everest",
         "discovered": "2024-11-19 16:52:45.422417",
         "url": null
+    },
+    {
+        "post_title": "Pacific Pulmonary Medical Group Data Leak",
+        "group_name": "everest",
+        "discovered": "2024-11-19 18:57:11.794593",
+        "url": null
     }
 ]
