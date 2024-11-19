@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-19 | [`IndicaOnline`](https://google.com/search?q=IndicaOnline) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-19 | [`RAUCH Streuer – Kompetenz in Entwicklung &amp; Herstellung`](https://google.com/search?q=RAUCH+Streuer+%E2%80%93+Kompetenz+in+Entwicklung+%26amp%3B+Herstellung) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`REMBE GmbH Safety + Control`](https://google.com/search?q=REMBE+GmbH+Safety+%2B+Control) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`Jonti-Craft`](https://google.com/search?q=Jonti-Craft) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-03 | [`http://svpworldwide.com`](https://google.com/search?q=http%3A%2F%2Fsvpworldwide.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-03 | [`JS McCarthy Printers`](https://google.com/search?q=JS+McCarthy+Printers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-03 | [`CGR Technologies`](https://google.com/search?q=CGR+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-02 | [`Russell Law Firm, LLC`](https://google.com/search?q=Russell+Law+Firm%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
