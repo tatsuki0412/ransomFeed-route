@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-19 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`allconstructiongroupwv.com`](https://google.com/search?q=allconstructiongroupwv.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`Jornstax.com`](https://google.com/search?q=Jornstax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`https://www.eastgateauto.com/`](https://google.com/search?q=https%3A%2F%2Fwww.eastgateauto.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-02 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Imprimerie Peau`](https://google.com/search?q=Imprimerie+Peau) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`DAIKIN THAILAND`](https://google.com/search?q=DAIKIN+THAILAND) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-11-02 | [`B Transport, L.L.C.`](https://google.com/search?q=B+Transport%2C+L.L.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
