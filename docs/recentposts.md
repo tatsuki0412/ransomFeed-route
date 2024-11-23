@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-23 | [`smawins.net`](https://google.com/search?q=smawins.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`rudrakshahospitals.com`](https://google.com/search?q=rudrakshahospitals.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`moi.gov.ly`](https://google.com/search?q=moi.gov.ly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-23 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-06 | [`redphoenixconstruction.com`](https://google.com/search?q=redphoenixconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`sundt.com`](https://google.com/search?q=sundt.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`nwhealthporter.com`](https://google.com/search?q=nwhealthporter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-06 | [`pacificglazing.com`](https://google.com/search?q=pacificglazing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |

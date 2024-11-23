@@ -69256,5 +69256,11 @@
         "group_name": "killsecurity",
         "discovered": "2024-11-23 04:48:21.911978",
         "url": null
+    },
+    {
+        "post_title": "smawins.net",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-23 06:49:36.454642",
+        "url": null
     }
 ]
