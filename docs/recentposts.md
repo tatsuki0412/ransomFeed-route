@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Concord Orthopaedics`](https://google.com/search?q=Concord+Orthopaedics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`argofinance.org`](https://google.com/search?q=argofinance.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`transfoodbeverage.com`](https://google.com/search?q=transfoodbeverage.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-08 | [`nelconinc.biz`](https://google.com/search?q=nelconinc.biz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`www.fdc.ie`](https://google.com/search?q=www.fdc.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`www.cenergica.com`](https://google.com/search?q=www.cenergica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-08 | [`MedElite Group`](https://google.com/search?q=MedElite+Group) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
