@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`healthyuturn.in`](https://google.com/search?q=healthyuturn.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-24 | [`pingan.com`](https://google.com/search?q=pingan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-08 | [`del-electric.com`](https://google.com/search?q=del-electric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`granjazul.com`](https://google.com/search?q=granjazul.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`eap.gr`](https://google.com/search?q=eap.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-08 | [`ottosimon.co.uk\$16.6M\United Kingdom\1.9TB\&lt;1% DISCLOSED`](https://google.com/search?q=ottosimon.co.uk%5C%2416.6M%5CUnited+Kingdom%5C1.9TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
