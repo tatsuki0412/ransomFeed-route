@@ -69556,5 +69556,11 @@
         "group_name": "killsecurity",
         "discovered": "2024-11-27 08:55:21.371682",
         "url": null
+    },
+    {
+        "post_title": "bolognafc.it",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-27 10:46:46.385537",
+        "url": null
     }
 ]
