@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`http://www.gsd200.org`](https://google.com/search?q=http%3A%2F%2Fwww.gsd200.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-28 | [`Contrack Facilities Management`](https://google.com/search?q=Contrack+Facilities+Management) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-28 | [`Ventana Micro Systems`](https://google.com/search?q=Ventana+Micro+Systems) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-28 | [`Lu****ng`](https://google.com/search?q=Lu%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-11 | [`https://www.maxxis.com/`](https://google.com/search?q=https%3A%2F%2Fwww.maxxis.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Dietzgen Corporation`](https://google.com/search?q=Dietzgen+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`https://dezinecorp.com`](https://google.com/search?q=https%3A%2F%2Fdezinecorp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
