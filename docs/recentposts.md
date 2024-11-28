@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`Ventana Micro Systems`](https://google.com/search?q=Ventana+Micro+Systems) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-28 | [`Lu****ng`](https://google.com/search?q=Lu%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`Me****or`](https://google.com/search?q=Me%2A%2A%2A%2Aor) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`habeshacement.com`](https://google.com/search?q=habeshacement.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-11 | [`https://dezinecorp.com`](https://google.com/search?q=https%3A%2F%2Fdezinecorp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`tolbertlegal.com`](https://google.com/search?q=tolbertlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-11 | [`clinicia.com`](https://google.com/search?q=clinicia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
