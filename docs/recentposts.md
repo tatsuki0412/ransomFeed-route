@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`facilcreditos.co`](https://google.com/search?q=facilcreditos.co) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`wheelerassoc.com`](https://google.com/search?q=wheelerassoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-12 | [`https://steppingstonesd.org/`](https://google.com/search?q=https%3A%2F%2Fsteppingstonesd.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`https://jst.es/`](https://google.com/search?q=https%3A%2F%2Fjst.es%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`www.guymontigers.com`](https://google.com/search?q=www.guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-12 | [`https://jarrellinc.com/`](https://google.com/search?q=https%3A%2F%2Fjarrellinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
