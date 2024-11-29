@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`Bendheim`](https://google.com/search?q=Bendheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`inthinking.net`](https://google.com/search?q=inthinking.net) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-13 | [`www.aristoiclassical.org`](https://google.com/search?q=www.aristoiclassical.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-13 | [`www.camelotservices.com`](https://google.com/search?q=www.camelotservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-13 | [`Value Dental Center`](https://google.com/search?q=Value+Dental+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-11-13 | [`Asaro Dental Aesthetics`](https://google.com/search?q=Asaro+Dental+Aesthetics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
