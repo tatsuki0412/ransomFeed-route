@@ -69700,5 +69700,11 @@
         "group_name": "killsecurity",
         "discovered": "2024-11-29 08:52:44.876915",
         "url": null
+    },
+    {
+        "post_title": "ppotts.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-29 10:50:05.798043",
+        "url": null
     }
 ]
