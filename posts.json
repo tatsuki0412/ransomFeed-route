@@ -69724,5 +69724,11 @@
         "group_name": "darkvault",
         "discovered": "2024-11-29 16:46:05.561918",
         "url": null
+    },
+    {
+        "post_title": "www.aras-group.ae",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-29 18:51:28.862598",
+        "url": null
     }
 ]
