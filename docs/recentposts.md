@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-30 | [`Precision Steel Services`](https://google.com/search?q=Precision+Steel+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-30 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-30 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-30 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-14 | [`Kumla Kommun`](https://google.com/search?q=Kumla+Kommun) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-14 | [`Horsesportireland.ie`](https://google.com/search?q=Horsesportireland.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-14 | [`HiCare.net`](https://google.com/search?q=HiCare.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-14 | [`Bigpharmacy.com.my`](https://google.com/search?q=Bigpharmacy.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
