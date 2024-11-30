@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-30 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-11-30 | [`weisermemorialhospital.org`](https://google.com/search?q=weisermemorialhospital.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-30 | [`American Associated Pharmacies`](https://google.com/search?q=American+Associated+Pharmacies) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-30 | [`Memorial Hospital &amp; Manor`](https://google.com/search?q=Memorial+Hospital+%26amp%3B+Manor) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-14 | [`www.kersey.net`](https://google.com/search?q=www.kersey.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-13 | [`Sercomm`](https://google.com/search?q=Sercomm) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-13 | [`https://www.stalyhill-inf.tameside.sch.uk/`](https://google.com/search?q=https%3A%2F%2Fwww.stalyhill-inf.tameside.sch.uk%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-13 | [`http://www.axeon-360.com`](https://google.com/search?q=http%3A%2F%2Fwww.axeon-360.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
