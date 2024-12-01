@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-01 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-01 | [`Symantric IT`](https://google.com/search?q=Symantric+IT) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-30 | [`Precision Steel Services`](https://google.com/search?q=Precision+Steel+Services) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-14 | [`Pincu Barkan, Law Office and Notary`](https://google.com/search?q=Pincu+Barkan%2C+Law+Office+and+Notary) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-14 | [`Astolabs.com`](https://google.com/search?q=Astolabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-14 | [`transport-system.com`](https://google.com/search?q=transport-system.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-14 | [`Kumla Kommun`](https://google.com/search?q=Kumla+Kommun) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
