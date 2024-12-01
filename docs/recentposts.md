@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`Surfnet Communications`](https://google.com/search?q=Surfnet+Communications) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-01 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-01 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-01 | [`Trust Seeds`](https://google.com/search?q=Trust+Seeds) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-15 | [`saizeriya.co.jp`](https://google.com/search?q=saizeriya.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`confidencegroup.com.bd`](https://google.com/search?q=confidencegroup.com.bd) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`medicato.com`](https://google.com/search?q=medicato.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-14 | [`basarsoft.com.tr`](https://google.com/search?q=basarsoft.com.tr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
