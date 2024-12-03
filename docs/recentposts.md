@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Elad municipality Hacked`](https://google.com/search?q=Elad+municipality+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-03 | [`Harel Insurance Hacked ( Shirbit Server )`](https://google.com/search?q=Harel+Insurance+Hacked+%28+Shirbit+Server+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-17 | [`The Egyptian Tax Authority (ETA)`](https://google.com/search?q=The+Egyptian+Tax+Authority+%28ETA%29) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-11-17 | [`nspproteins.com`](https://google.com/search?q=nspproteins.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-16 | [`okcabstract.com`](https://google.com/search?q=okcabstract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-16 | [`medexhco.com`](https://google.com/search?q=medexhco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
