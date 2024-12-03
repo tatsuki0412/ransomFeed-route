@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Elad municipality Hacked`](https://google.com/search?q=Elad+municipality+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`SSV Blockchain Network Hacked`](https://google.com/search?q=SSV+Blockchain+Network+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-17 | [`autodoc.pro`](https://google.com/search?q=autodoc.pro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-17 | [`trulysmall.com`](https://google.com/search?q=trulysmall.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-17 | [`The Egyptian Tax Authority (ETA)`](https://google.com/search?q=The+Egyptian+Tax+Authority+%28ETA%29) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-11-17 | [`nspproteins.com`](https://google.com/search?q=nspproteins.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
