@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-04 | [`Doscast Hacked`](https://google.com/search?q=Doscast+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-04 | [`AGAS Hacked`](https://google.com/search?q=AGAS+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-04 | [`IM Cannabis Hacked`](https://google.com/search?q=IM+Cannabis+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-17 | [`Gu****me`](https://google.com/search?q=Gu%2A%2A%2A%2Ame) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-17 | [`autodukan.com`](https://google.com/search?q=autodukan.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-17 | [`boloforms.com`](https://google.com/search?q=boloforms.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-17 | [`http://www.hetrhedens.nl`](https://google.com/search?q=http%3A%2F%2Fwww.hetrhedens.nl) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
