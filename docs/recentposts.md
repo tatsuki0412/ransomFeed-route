@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-04 | [`The Snatt Omlog Companies`](https://google.com/search?q=The+Snatt+Omlog+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Medica Corporation`](https://google.com/search?q=Medica+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Lorne Stewart Group`](https://google.com/search?q=Lorne+Stewart+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Vossko GmbH &amp; Co. KG`](https://google.com/search?q=Vossko+GmbH+%26amp%3B+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`volohealth.in`](https://google.com/search?q=volohealth.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`tripxoxo.com`](https://google.com/search?q=tripxoxo.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-18 | [`ask.vet`](https://google.com/search?q=ask.vet) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
