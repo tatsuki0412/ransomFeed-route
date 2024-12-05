@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`Graham + Sibbald`](https://google.com/search?q=Graham+%2B+Sibbald) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-05 | [`Cafe Zupas`](https://google.com/search?q=Cafe+Zupas) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-05 | [`Westbank Corp`](https://google.com/search?q=Westbank+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-05 | [`BT Group plc`](https://google.com/search?q=BT+Group+plc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`Dorner Law & Title Services`](https://google.com/search?q=Dorner+Law+%26+Title+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-18 | [`bcllegal.com\$16.7M\United Kingdom\829GB\100% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`hacla.org\$1.9B\USA\861GB\100% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-11-18 | [`lsst.ac\$72.2M\United Kingdom\845GB\100% DISCLOSED`](https://google.com/search?q=lsst.ac%5C%2472.2M%5CUnited+Kingdom%5C845GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
