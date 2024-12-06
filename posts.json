@@ -70228,5 +70228,11 @@
         "group_name": "everest",
         "discovered": "2024-12-06 18:48:45.817067",
         "url": null
+    },
+    {
+        "post_title": "www.d47.org",
+        "group_name": "ransomhub",
+        "discovered": "2024-12-06 20:49:10.571013",
+        "url": null
     }
 ]
