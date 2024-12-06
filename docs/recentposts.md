@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-06 | [`LTI Trucking Services`](https://google.com/search?q=LTI+Trucking+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-06 | [`pro-mec.com`](https://google.com/search?q=pro-mec.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-06 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-06 | [`pez.com`](https://google.com/search?q=pez.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-20 | [`ISA`](https://google.com/search?q=ISA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`Rockport Mortgage`](https://google.com/search?q=Rockport+Mortgage) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`KMC Global`](https://google.com/search?q=KMC+Global) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-11-19 | [`Pacific Pulmonary Medical Group Data Leak`](https://google.com/search?q=Pacific+Pulmonary+Medical+Group+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
