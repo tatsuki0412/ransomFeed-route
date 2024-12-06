@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-06 | [`NatAlliance Securities`](https://google.com/search?q=NatAlliance+Securities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-06 | [`Max Trans`](https://google.com/search?q=Max+Trans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-05 | [`ITO EN`](https://google.com/search?q=ITO+EN) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-05 | [`[DISCLOSED]Sabesp`](https://google.com/search?q=%5BDISCLOSED%5DSabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`RAUCH Streuer – Kompetenz in Entwicklung &amp; Herstellung`](https://google.com/search?q=RAUCH+Streuer+%E2%80%93+Kompetenz+in+Entwicklung+%26amp%3B+Herstellung) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`REMBE GmbH Safety + Control`](https://google.com/search?q=REMBE+GmbH+Safety+%2B+Control) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`Jonti-Craft`](https://google.com/search?q=Jonti-Craft) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-11-19 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
