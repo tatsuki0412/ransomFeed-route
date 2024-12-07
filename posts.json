@@ -70306,5 +70306,11 @@
         "group_name": "ransomhub",
         "discovered": "2024-12-07 20:47:28.642699",
         "url": null
+    },
+    {
+        "post_title": "Dorner (dorner-gmbh.de)",
+        "group_name": "FOG",
+        "discovered": "2024-12-07 22:44:31.721242",
+        "url": null
     }
 ]
