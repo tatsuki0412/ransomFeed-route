@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-08 | [`IIB ( Israeli Industrial Batteries ) Leaked`](https://google.com/search?q=IIB+%28+Israeli+Industrial+Batteries+%29+Leaked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-08 | [`Max Shop Hacked`](https://google.com/search?q=Max+Shop+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-08 | [`Ambassador of Israel in Germany Emails`](https://google.com/search?q=Ambassador+of+Israel+in+Germany+Emails) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-07 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`Kellerhals Ferguson Kroblin PLLC`](https://google.com/search?q=Kellerhals+Ferguson+Kroblin+PLLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-21 | [`Silverback Exploration`](https://google.com/search?q=Silverback+Exploration) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-21 | [`Hive Power Engineering`](https://google.com/search?q=Hive+Power+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-21 | [`Henderson Stamping & Production`](https://google.com/search?q=Henderson+Stamping+%26+Production) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
