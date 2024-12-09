@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-12-09 | [`Hosting.co.uk`](https://google.com/search?q=Hosting.co.uk) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-08 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-08 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`madison-home.com`](https://google.com/search?q=madison-home.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-22 | [`scalar.co.il`](https://google.com/search?q=scalar.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`www.cobeldarou.com`](https://google.com/search?q=www.cobeldarou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-22 | [`www.damcapital.in`](https://google.com/search?q=www.damcapital.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
