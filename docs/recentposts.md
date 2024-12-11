@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`Compass Communications`](https://google.com/search?q=Compass+Communications) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`interborosd.org`](https://google.com/search?q=interborosd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`Thebike.com`](https://google.com/search?q=Thebike.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`3ccaresystems.com`](https://google.com/search?q=3ccaresystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-23 | [`brylesresearch.com`](https://google.com/search?q=brylesresearch.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
