@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-11 | [`Hydra-Matic Packing`](https://google.com/search?q=Hydra-Matic+Packing) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-10 | [`womenscare.com`](https://google.com/search?q=womenscare.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-23 | [`3ccaresystems.com`](https://google.com/search?q=3ccaresystems.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`brylesresearch.com`](https://google.com/search?q=brylesresearch.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`Jones & Mayer`](https://google.com/search?q=Jones+%26+Mayer) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-23 | [`Aeris Energy`](https://google.com/search?q=Aeris+Energy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
