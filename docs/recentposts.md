@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`Wintergreen Learning Materials`](https://google.com/search?q=Wintergreen+Learning+Materials) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`AFD`](https://google.com/search?q=AFD) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`Aptus`](https://google.com/search?q=Aptus) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Concord Orthopaedics`](https://google.com/search?q=Concord+Orthopaedics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`argofinance.org`](https://google.com/search?q=argofinance.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-24 | [`transfoodbeverage.com`](https://google.com/search?q=transfoodbeverage.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
