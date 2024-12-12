@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-12 | [`Aptus`](https://google.com/search?q=Aptus) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-12 | [`Southern Acids`](https://google.com/search?q=Southern+Acids) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-12 | [`recope.go.cr`](https://google.com/search?q=recope.go.cr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-11 | [`NSK Group ROTA`](https://google.com/search?q=NSK+Group+ROTA) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-24 | [`argofinance.org`](https://google.com/search?q=argofinance.org) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`transfoodbeverage.com`](https://google.com/search?q=transfoodbeverage.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-11-24 | [`extramarks.com`](https://google.com/search?q=extramarks.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-11-24 | [`totaldevelopmentsolutions.com`](https://google.com/search?q=totaldevelopmentsolutions.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
