@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`http://www.abag-sroc.pt`](https://google.com/search?q=http%3A%2F%2Fwww.abag-sroc.pt) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-12-13 | [`Kazyon`](https://google.com/search?q=Kazyon) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-13 | [`Goins Law`](https://google.com/search?q=Goins+Law) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
 | 2024-12-13 | [`Tricon Energy`](https://google.com/search?q=Tricon+Energy) | [lynxblog](https://ransomwatch.telemetry.ltd/#/profiles?id=lynxblog) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`glts.net`](https://google.com/search?q=glts.net) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-11-25 | [`minneapolisparks.org`](https://google.com/search?q=minneapolisparks.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-25 | [`maynard.k12.ma.us`](https://google.com/search?q=maynard.k12.ma.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-25 | [`INFiLED`](https://google.com/search?q=INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
